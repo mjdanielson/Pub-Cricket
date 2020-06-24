@@ -4,7 +4,7 @@
 
 👆 This is a crowdsourced list of all of the pubs in the United Kingdom. The file the following fields: Name, Animal, Points, Address, Town, Latitude, Longitude.
 
-Premise: Pub cricket is a popular road-trip game in the UK. Players earn points by spotting pub signs - points are equal to the number of physical legs - human or animal -visible on each sign. There are over 50,000 pubs in the UK and thousands of the names reference humans or animals from *George and Dragon (6 points 🏏🏏🏏🏏🏏🏏)* to *The Red Lion (4 points 🏏🏏🏏🏏)* to *The Magpie Inn (2 points 🏏🏏)*.
+Premise: Pub cricket is a popular road-trip game in the UK. Players earn points by spotting pub signs - points are equal to the number of physical legs - human or animal -visible on each sign. There are over 50,000 pubs in the UK and thousands of the names reference humans or animals from *George and Dragon (6 points)* to *The Red Lion (4 points)* to *The Magpie Inn (2 points)*.
 
 Dot density challenge 1: 
 
